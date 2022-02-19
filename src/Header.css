@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #f2f53b;
+  padding: 15px 15px;
+  font-size: 10px;
+  text-transform: uppercase;
+  font-family: "Redressed", cursive;
+  color: white;
+  text-shadow: 0px 0px 5px rgba(212, 206, 206, 0.5);
+}
+
+.header h1 {
+  background-color: #f2f53b;
+}
